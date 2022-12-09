@@ -1,0 +1,8 @@
+.title {
+    font-family:'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-transformation: uppercase;
+    display: flex;
+    justify-content: center;
+    margin: 40px 0px;
+}
