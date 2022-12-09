@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio-FT/static/css/main.82d8b598.css",
+    "main.js": "/Portfolio-FT/static/js/main.235cd8d1.js",
+    "static/media/IBMPlexSansKR-Light.ttf": "/Portfolio-FT/static/media/IBMPlexSansKR-Light.559ffa44a28703e7a985.ttf",
+    "static/media/unknown.png": "/Portfolio-FT/static/media/unknown.a7fb606d7706f932e8ca.png",
+    "static/media/CAG.jpg": "/Portfolio-FT/static/media/CAG.76313fe5f0cbe7bbcfc2.jpg",
+    "static/media/NOTT.jpg": "/Portfolio-FT/static/media/NOTT.1eeccd0fd3272ca98271.jpg",
+    "static/media/badpic.jpg": "/Portfolio-FT/static/media/badpic.a6fcc6e40f7826996d6d.jpg",
+    "static/media/BebasNeue-Regular.ttf": "/Portfolio-FT/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
+    "static/media/Aboreto-Regular.ttf": "/Portfolio-FT/static/media/Aboreto-Regular.7c5655d7b7541650e02d.ttf",
+    "index.html": "/Portfolio-FT/index.html",
+    "main.82d8b598.css.map": "/Portfolio-FT/static/css/main.82d8b598.css.map",
+    "main.235cd8d1.js.map": "/Portfolio-FT/static/js/main.235cd8d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82d8b598.css",
+    "static/js/main.235cd8d1.js"
+  ]
+}
