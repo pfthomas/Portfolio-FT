@@ -16,16 +16,16 @@ function App() {
             element={<Home/>}>
             </Route>
 
-            <Route path="/about" 
+            <Route path="/Portfolio-FT/about" 
             element={<About/>}>
             </Route>
-            <Route path ="/portfolio"
+            <Route path ="/Portfolio-FT/portfolio"
               element={<Portfolio/>}>
             </Route>
-            <Route path="/contact">
+            <Route path="/Portfolio-FT/contact">
               {/* <PageTitle title="contact"/> */}
             </Route>
-            <Route path="/resume">
+            <Route path="/Portfolio-FT/resume">
               {/* <PageTitle title="resume"/> */}
             </Route>
           </Routes>
