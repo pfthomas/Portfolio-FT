@@ -2,7 +2,7 @@
   "name": "ft-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pfthomas.githup.io/Portfolio-FT",
+  "homepage": "https://pfthomas.github.io/Portfolio-FT",
   "dependencies": {
     "@craco/craco": "^7.0.0",
     "@headlessui/react": "^1.7.4",
