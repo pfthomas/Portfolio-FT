@@ -2,6 +2,7 @@ import React from 'react'
 import Project from './Project';
 import Nott from '../../../assets/images/NOTT.jpg'
 import Cag from '../../../assets/images/CAG.jpg';
+import Gb from '../../../assets/images/Giveback.jpg';
 const project1 = {
     image: Nott,
     title: 'Night on the Town',
@@ -13,6 +14,12 @@ const project2 = {
     title: 'Combat Arena Game',
     link: 'https://combat-arena-game.herokuapp.com/',
     github: 'https://github.com/leothoma88/CombatArena_Game',
+}
+const project3 = {
+    image: Gb,
+    title: 'GiveBack',
+    link: 'https://giveback-app2.herokuapp.com/',
+    github: 'https://github.com/leothoma88/GiveBackApp'
 }
 
 function Portfolio ()  {
@@ -26,6 +33,9 @@ function Portfolio ()  {
         </div>
         <div> 
             <Project image={project2.image} title={project2.title} link={project2.link} github={project2.github}/>
+        </div>
+        <div> 
+            <Project image={project3.image} title={project3.title} link={project3.link} github={project3.github}/>
         </div>
         </div>
     </div>
